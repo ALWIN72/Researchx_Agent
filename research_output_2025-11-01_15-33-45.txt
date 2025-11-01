@@ -1,0 +1,10 @@
+--- Research Output ---
+Timestamp: 2025-11-01 15:33:45
+
+Metatext NLP: https://metatext.io/datasets
+Appen: Off The Shelf and Open Source Datasets hosted and maintained by the company.
+Compare and read user reviews of the best Web Dataset Providers currently available using the table below.
+On this page, we provide a curation of web datasets that can be used for academic research.
+The datasets presented on these resources cover such areas as healthcare, geography, sociology, security, transport, and many others.
+Accelerate your projects with Web Scraping Datasets and Publicly Available Web Data, tailored for analytics, AI, and business insights.
+

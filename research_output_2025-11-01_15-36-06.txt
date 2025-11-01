@@ -1,0 +1,5 @@
+--- Research Output ---
+Timestamp: 2025-11-01 15:36:06
+
+Statistics is a branch of mathematics dealing with data collection, analysis, interpretation, presentation, and organization of data in a logical and meaningful way. It involves the collection and analysis of data to draw conclusions about a population. The field of statistics is a key part of data science and is used in many fields such as medicine, social sciences, business, and engineering.
+
