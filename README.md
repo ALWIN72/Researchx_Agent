@@ -1,4 +1,5 @@
 AI Research Assistant
+
 An intelligent research assistant powered by Groq's ultra-fast LLM inference and LangChain agents. This tool autonomously searches the web, queries Wikipedia, and generates comprehensive research summaries on any topic.
 
 Python
